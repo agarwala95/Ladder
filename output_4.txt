@@ -1,0 +1,5 @@
+lead
+glade
+gaoled
+lodge
+gold
